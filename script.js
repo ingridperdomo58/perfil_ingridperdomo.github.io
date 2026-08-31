@@ -104,7 +104,7 @@ const EN = {
   "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "[City], Colombia",
+  "about.valueLocation":  "[Girardot], Colombia",
   "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
   "about.valueLanguages": "Spanish (native) · English ([your level])",
