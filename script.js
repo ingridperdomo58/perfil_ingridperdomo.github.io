@@ -31,7 +31,7 @@ const ES = {
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Girardot, Colombia",
-  "about.labelEmail":     "iperdomo58@itfip.edu.co",
+  "about.labelEmail":     "Correo",
   "about.labelLanguages": "Español",
   "about.valueLanguages": "Español (nativo) · Inglés (A1)",
   "about.labelStatus":    "Disponibilidad",
