@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
+  "about.text":           " Estudio Ingeniería de Sistemas y actualmente curso el ciclo técnico en Programación Web. Dentro del desarrollo web, me atrae especialmente el backend, área en la que estoy fortaleciendo mis conocimientos en PHP, Java y Laravel. Actualmente estoy desarrollando mi proyecto de grado, una aplicación web para el control y trazabilidad de activos en una distribuidora de gas, con el cual busco graduarme.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "[Ciudad], Colombia",
