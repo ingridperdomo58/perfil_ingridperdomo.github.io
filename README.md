@@ -18,7 +18,7 @@ A public web page with six sections:
 | Skills | HTML and CSS, JavaScript, PHP, Laravel, MySQL, Git and GitHub, Responsive Web Design, Problem Solving, Teamwork, Communication |
 | Resume | Education:I am currently studying web programming and learning about web technologies, databases, and programming. Experience. Web Development Projects:I have worked on web projects for inventory management, logistics, reservations, and traceability systems. |
 | Projects | LogiTrace: A web project focused on product traceability and logistics management. Distrigas: A web application designed to manage gas cylinder inventory, sales, logistics, customers, and payments.Sports Court Reservation Platform: A web application for managing and booking synthetic sports courts |
-| Contact | How people can reach you |
+| Contact | Correo: iperdomo58@itfip.edu.co |
 
 ---
 
