@@ -14,7 +14,7 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home | Ingrid Perdomo Acosta, Welcome to my personal portfolio. Here you can learn about my skills, education, experience, and projects |
-| About | Two or three sentences about you |
+| About | I am studying Systems Engineering and I am currently completing the technical cycle in Web Programming. In web development, I am particularly interested in backend development, where I am strengthening my knowledge of PHP, Java, and Laravel. I am currently developing my graduation project, a web application for asset control and traceability in a gas distribution company, which I am working on as part of my degree. |
 | Skills | HTML and CSS, JavaScript, PHP, Laravel, MySQL, Git and GitHub, Responsive Web Design, Problem Solving, Teamwork, Communication |
 | Resume | Education:I am currently studying web programming and learning about web technologies, databases, and programming. Experience. Web Development Projects:I have worked on web projects for inventory management, logistics, reservations, and traceability systems. |
 | Projects | LogiTrace: A web project focused on product traceability and logistics management. Distrigas: A web application designed to manage gas cylinder inventory, sales, logistics, customers, and payments.Sports Court Reservation Platform: A web application for managing and booking synthetic sports courts |
