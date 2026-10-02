@@ -56,12 +56,12 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Estoy aprendiendo desarrollo web y estoy fortaleciendo mis conocimientos en PHP, Java y Laravel. Actualmente puedo desarrollar aplicaciones web y trabajar con bases de datos y tecnologías web.]",
-  "edu.2.title": "[Tecnico en Sistemas]",
-  "edu.2.text":  "[El mantenimiento preventivo y predictivo a equipos de computo]",
+  "edu.1.text":  "Estoy aprendiendo desarrollo web y estoy fortaleciendo mis conocimientos en PHP, Java y Laravel. Actualmente puedo desarrollar aplicaciones web y trabajar con bases de datos y tecnologías web.",
+  "edu.2.title": "Tecnico en Sistemas",
+  "edu.2.text":  "El mantenimiento preventivo y predictivo a equipos de computo",
 
   "exp.1.title": "Aplicacion web de Trazabilidad y Control de Activos de Gas Propano en la Distribuidora Distrigas de Girardot",
-  "exp.1.text":  "[Controlar, administrar y sistematizar el inventario de los cilindros y servicios de la empresa, utilizando herramientas como Visual Studio Code, Laravel y MySQL, junto con lenguajes como HTML, CSS y JavaScript. Como resultado, se desarrolló una aplicación web que permite organizar y consultar la información de los cilindros, mejorar el control del inventario y facilitar la gestión de los procesos de la empresa.",
+  "exp.1.text":  "Controlar, administrar y sistematizar el inventario de los cilindros y servicios de la empresa, utilizando herramientas como Visual Studio Code, Laravel y MySQL, junto con lenguajes como HTML, CSS y JavaScript. Como resultado, se desarrolló una aplicación web que permite organizar y consultar la información de los cilindros, mejorar el control del inventario y facilitar la gestión de los procesos de la empresa.",
   "exp.2.title": "[Rol o tipo de proyecto]",
   "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
 
