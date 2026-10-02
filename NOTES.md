@@ -64,10 +64,7 @@ You may use dictionaries, translators and AI tools. But you must say so here.
 
 **Which tools did you use, and for what?**
 
-> [Write your answer in English. Be specific. For example: "I used
-> Cambridge Dictionary to check the difference between *develop* and
-> *design*." Or: "I used a translator for a first version of the About
-> section, and then I rewrote it because it sounded too formal."]
+> [I used an AI tool to help me translate some sentences from Spanish to English. I also used it to check my grammar and make some sentences sound more natural.]
 
 ---
 
