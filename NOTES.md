@@ -31,7 +31,7 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
+> [I have left out some details about my personal life. I have removed them because they are not important for an internship. I have focused on my skills and studies.]
 
 ---
 
@@ -40,7 +40,7 @@ in your English version. Explain why you removed it.
 Name **one technical term** that you kept in English in both versions.
 Explain why translating it would be a bad idea.
 
-> [Write 2–4 sentences in English.]
+> [I have kept the word “JavaScript” in both versions. I have not translated it because JavaScript is a technical name. It is used the same way in English and Spanish.]
 
 ---
 
@@ -50,11 +50,11 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish: [Entre código, tareas y sesiones de videojuegos, sobrevivo en la universidad como si la vida estuviera en modo difícil.]
 >
-> English: [copy your sentence here]
+> English: [Between code, assignments and gaming sessions, I survive university as if life were on hard mode.]
 >
-> [Write 2–4 sentences in English explaining the change.]
+> [I have changed some words because a word-by-word translation does not sound natural in English. I have used “hard mode” because it is a common expression in video games. This makes the sentence sound more natural.]
 
 ---
 
