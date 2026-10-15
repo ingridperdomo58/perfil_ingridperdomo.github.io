@@ -141,7 +141,7 @@ const EN = {
 
   "portfolio.title": "Projects",
   "project.1.title": "Asset Control and Traceability in a Gas Distribution Company",
-  "project.1.text":  "php, laravel 12, Mysql,html5,css3 y java scrip"
+  "project.1.text":  "php, laravel 12, Mysql,html5,css3 y java scrip",
   "project.2.title": "EduKists",
   "project.2.text":  "MIT App Inventor, visual block-based programming, graphical user interface (UI) design, and Android development.",
   "project.3.title": "Simulador Nequi",
