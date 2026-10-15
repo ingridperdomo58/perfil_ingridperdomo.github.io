@@ -66,19 +66,19 @@ const ES = {
   "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
-  "project.2.title": "[Nombre del proyecto]",
-  "project.2.text":  "[Tecnologías usadas]",
-  "project.3.title": "[Nombre del proyecto]",
-  "project.3.text":  "[Tecnologías usadas]",
+  "project.1.title": "Control y trazabilidad de activos en distribuidora de gas",
+  "project.1.text":  "php, laravel 12, Mysql,html5,css3 y java scrip",
+  "project.2.title": "EduKist",
+  "project.2.text":  "MIT App Inventor, programación visual por bloques, diseño de interfaces gráficas (UI) y Android.",
+  "project.3.title": "Simulador Nequi",
+  "project.3.text":  "Php, Javascrip, css y html",
 
   "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
-  "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.intro":         "¿Tienes una idea, un proyecto o una oportunidad laboral? Me encantaría conocerla. ¡Hablemos y hagámosla realidad!",
+  "contact.emailLabel":    "iperdomo58@itfip.edu.co",
+  "contact.linkedinValue": "www.linkedin.com/in/ingrid-perdomo-395501346",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "INGRID PERDOMO ACOSTA · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -101,13 +101,13 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "I am studying Systems Engineering and I have completed the technical cycle in Web Programming. I have developed a strong interest in backend development, and I have strengthened my knowledge of PHP, Java, and Laravel. I have been developing my graduation project, a web application for asset control and traceability in a gas distribution company, which I am completing as part of my graduation process.",
+  "about.text":           "My academic background has provided me with a foundation in Systems Engineering and Web Programming. I have acquired knowledge of backend technologies, particularly PHP, Java, and Laravel, and have focused my professional interests on software development. As part of my graduation process, I have undertaken a web application project aimed at improving asset management and cylinder traceability in a gas distribution company. Through this experience, I have connected my technical training with the development of practical software solutions.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "[Girardot], Colombia",
+  "about.valueLocation":  "Girardot, Colombia",
   "about.labelEmail":     "iperdomo58@itfip.edu.co",
   "about.labelLanguages": "Languages",
-  "about.valueLanguages": "Spanish (native) · English ([your level])",
+  "about.valueLanguages": "Spanish (native) · English (level 1)",
   "about.labelStatus":    "Availability",
   "about.valueStatus":    "Open to internships",
   "about.interestsTitle": "Interests",
@@ -130,7 +130,7 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
+  "edu.1.text":  "I have strengthened my skills in web development, particularly in PHP, Java, and Laravel. I have gained experience in web applications and database management.",
   "edu.2.title": "[Course or certificate]",
   "edu.2.text":  "[What you learned and how you use it.]",
 
@@ -140,19 +140,19 @@ const EN = {
   "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
-  "project.2.title": "[Project name]",
-  "project.2.text":  "[Technologies used]",
-  "project.3.title": "[Project name]",
-  "project.3.text":  "[Technologies used]",
+  "project.1.title": "Asset Control and Traceability in a Gas Distribution Company",
+  "project.1.text":  "php, laravel 12, Mysql,html5,css3 y java scrip"
+  "project.2.title": "EduKists",
+  "project.2.text":  "MIT App Inventor, visual block-based programming, graphical user interface (UI) design, and Android development.",
+  "project.3.title": "Simulador Nequi",
+  "project.3.text":  "Php, Javascrip, css y html",
 
   "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
+  "contact.intro":         "Have a project or job opportunity in web development? Feel free to contact me!",
   "contact.emailLabel":    "Email",
   "contact.linkedinValue": "[Your professional profile]",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+  "footer.note": "INGRID PERDOMO · Professional Technician in Web Programming · UniEspinal"
 };
 
 
