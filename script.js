@@ -31,7 +31,7 @@ const ES = {
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "Girardot, Colombia",
-  "about.labelEmail":     "iperdomo58@itfip.edu.co",
+  "about.labelEmail":     "Correo",
   "about.labelLanguages": "Español",
   "about.valueLanguages": "Español (nativo) · Inglés (A1)",
   "about.labelStatus":    "Disponibilidad",
@@ -62,8 +62,8 @@ const ES = {
 
   "exp.1.title": "Aplicacion web de Trazabilidad y Control de Activos de Gas Propano en la Distribuidora Distrigas de Girardot",
   "exp.1.text":  "Controlar, administrar y sistematizar el inventario de los cilindros y servicios de la empresa, utilizando herramientas como Visual Studio Code, Laravel y MySQL, junto con lenguajes como HTML, CSS y JavaScript. Como resultado, se desarrolló una aplicación web que permite organizar y consultar la información de los cilindros, mejorar el control del inventario y facilitar la gestión de los procesos de la empresa.",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.2.title": "Servicio al cliente",
+  "exp.2.text":  "Anministracion y control del Sistema de PQRS",
 
   "portfolio.title": "Proyectos",
   "project.1.title": "Control y trazabilidad de activos en distribuidora de gas",
@@ -105,9 +105,9 @@ const EN = {
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
   "about.valueLocation":  "Girardot, Colombia",
-  "about.labelEmail":     "iperdomo58@itfip.edu.co",
+  "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
-  "about.valueLanguages": "Spanish (native) · English (level 1)",
+  "about.valueLanguages": "Spanish (native) · English (A1)",
   "about.labelStatus":    "Availability",
   "about.valueStatus":    "Open to internships",
   "about.interestsTitle": "Interests",
@@ -134,8 +134,8 @@ const EN = {
   "edu.2.title": "[Course or certificate]",
   "edu.2.text":  "[What you learned and how you use it.]",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "Web Application for Propane Gas Asset Traceability and Control at Distrigas Distribution Company in Girardot",
+  "exp.1.text":  "I develop web applications to manage cylinder inventory and company services using Laravel, MySQL, HTML, CSS, and JavaScript.",
   "exp.2.title": "[Role or type of project]",
   "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
 
@@ -150,7 +150,7 @@ const EN = {
   "contact.title":         "Contact",
   "contact.intro":         "Have a project or job opportunity in web development? Feel free to contact me!",
   "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
+  "contact.linkedinValue": "Www.linkedin.com/in/ingrid-perdomo-395501346]",
 
   "footer.note": "INGRID PERDOMO · Professional Technician in Web Programming · UniEspinal"
 };
