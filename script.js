@@ -75,7 +75,7 @@ const ES = {
 
   "contact.title":         "Contacto",
   "contact.intro":         "¿Tienes una idea, un proyecto o una oportunidad laboral? Me encantaría conocerla. ¡Hablemos y hagámosla realidad!",
-  "contact.emailLabel":    "iperdomo58@itfip.edu.co",
+  "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "www.linkedin.com/in/ingrid-perdomo-395501346",
 
   "footer.note": "INGRID PERDOMO ACOSTA · Técnico Profesional en Programación Web · UniEspinal"
@@ -136,8 +136,8 @@ const EN = {
 
   "exp.1.title": "Web Application for Propane Gas Asset Traceability and Control at Distrigas Distribution Company in Girardot",
   "exp.1.text":  "I develop web applications to manage cylinder inventory and company services using Laravel, MySQL, HTML, CSS, and JavaScript.",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.2.title": "Customer Service",
+  "exp.2.text":  "Administration and Management of the PQR System (Requests, Complaints, Claims, and Suggestions)",
 
   "portfolio.title": "Projects",
   "project.1.title": "Asset Control and Traceability in a Gas Distribution Company",
