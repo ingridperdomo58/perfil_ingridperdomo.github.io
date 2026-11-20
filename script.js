@@ -131,8 +131,8 @@ const EN = {
 
   "edu.1.title": "Professional Technician in Web Programming",
   "edu.1.text":  "I have strengthened my skills in web development, particularly in PHP, Java, and Laravel. I have gained experience in web applications and database management.",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.2.title": "Systems Technician",
+  "edu.2.text":  "Preventive and Predictive Maintenance of Computer Equipment",
 
   "exp.1.title": "Web Application for Propane Gas Asset Traceability and Control at Distrigas Distribution Company in Girardot",
   "exp.1.text":  "I develop web applications to manage cylinder inventory and company services using Laravel, MySQL, HTML, CSS, and JavaScript.",
